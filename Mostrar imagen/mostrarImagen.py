@@ -33,7 +33,7 @@ class QLabelClickable(QLabel):
         self.clicked.emit()
 
 
-# ===================== CLASE labelClickable =======================
+# ====================== CLASE mostrarImagen =======================
 
 class mostrarImagen(QDialog):
     def __init__(self, parent=None):
