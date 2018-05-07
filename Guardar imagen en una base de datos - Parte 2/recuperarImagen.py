@@ -36,11 +36,11 @@ class QLabelClickable(QLabel):
         self.clicked.emit()
 
 
-# ===================== CLASE labelClickable =======================
+# ==================== CLASE recuperarImagen =======================
 
-class guardarImagen(QDialog):
+class recuperarImagen(QDialog):
     def __init__(self, parent=None):
-        super(guardarImagen, self).__init__(parent)
+        super(recuperarImagen, self).__init__(parent)
         
         self.setWindowTitle("Recuperar imagen por: ANDRES NIÑO")
         self.setWindowIcon(QIcon("icono.png"))
@@ -165,7 +165,7 @@ if __name__ == '__main__':
     
     aplicacion = QApplication(sys.argv)
     
-    ventana = guardarImagen()
+    ventana = recuperarImagen()
     ventana.show()
     
     sys.exit(aplicacion.exec_())
