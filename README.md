@@ -5,4 +5,6 @@ Códigos sobre PyQt5
 
 2 - Mostrar imagen: seleccionar imagen haciendo clic sobre un QLabel (etiqueta) o sobre un QPushButton (botón), eliminarla y cambiar el cursor al posicionarse sobre los widgets. 
 
-3 - Guardar imagen en una base de datos (SQLite): extraer imagen de un QLabel, convertirla al tipo de dato necesario e insertarla en la base de datos junto a un nombre de usuario que se obtiene de un QLineEdit.
+3 - Guardar imagen en una base de datos (SQLite) - Parte 1: extraer imagen de un QLabel, convertirla al tipo de dato necesario e insertarla en la base de datos junto a un nombre de usuario que se obtiene de un QLineEdit.
+
+4 - Guardar imagen en una base de datos (SQLite) - Parte 2: realizar consulta a una base de datos, obtener imagen y nombre de usuario, cargar la imagen y mostrarla en un QLabel y mostrar el nombre de usuario en un QLineEdit.
