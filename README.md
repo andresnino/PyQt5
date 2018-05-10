@@ -10,3 +10,5 @@ Códigos sobre PyQt5
 4 - Guardar imagen en una base de datos (SQLite) - Parte 2: realizar consulta a una base de datos, obtener imagen y nombre de usuario, cargar la imagen y mostrarla en un QLabel y mostrar el nombre de usuario en un QLineEdit.
 
 5 - Guardar imagen en una carpeta y la ruta en una base de datos (SQLite), luego realizar una consulta a la base de datos y mostrar la imagen.
+
+6 - Botón (QPushButton) redondo con borde y color de fondo.
