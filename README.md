@@ -12,3 +12,6 @@ Códigos sobre PyQt5
 5 - Guardar imagen en una carpeta y la ruta en una base de datos (SQLite), luego realizar una consulta a la base de datos y mostrar la imagen.
 
 6 - Botón (QPushButton) redondo con borde y color de fondo.
+
+7 - Interacción entre ventanas: enviar y actualizar información entre distintas ventanas.
+
