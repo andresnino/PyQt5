@@ -15,3 +15,5 @@ Códigos sobre PyQt5
 
 7 - Interacción entre ventanas: enviar y actualizar información entre distintas ventanas.
 
+8 - QStackedWidget: pila de widgets donde solo es visible uno a la vez.
+
