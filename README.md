@@ -17,3 +17,5 @@ Códigos sobre PyQt5
 
 8 - QStackedWidget: pila de widgets donde solo es visible uno a la vez.
 
+9 - Barra de título personalizada: agregar color a la barra, icono, título centrado, botones Minimizar, Maximizar/Restaurar y Cerrar, seleccionar y mover y maximizar/restaurar al hacer doble clic izquierdo.
+
