@@ -20,3 +20,5 @@ Códigos sobre PyQt5
 9 - Barra de título personalizada: agregar color a la barra, icono, título centrado, botones Minimizar, Maximizar/Restaurar y Cerrar, seleccionar y mover y maximizar/restaurar al hacer doble clic izquierdo.
 
 10 - Barra de título con menú - Parte 1: agregar menú a la barra, color, icono, título centrado, botones Minimizar - Cerrar y seleccionar y mover. 
+
+11 - Asignar tipo y tamaño de fuente a toda la aplicación.
