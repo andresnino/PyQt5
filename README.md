@@ -22,3 +22,5 @@ Códigos sobre PyQt5
 10 - Barra de título con menú - Parte 1: agregar menú a la barra, color, icono, título centrado, botones Minimizar - Cerrar y seleccionar y mover. 
 
 11 - Asignar tipo y tamaño de fuente a toda la aplicación.
+
+12 - Crear el widget QLineEdit y usar varias de sus funciones y señales.
