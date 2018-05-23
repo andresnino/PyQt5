@@ -23,4 +23,4 @@ Códigos sobre PyQt5
 
 11 - Asignar tipo y tamaño de fuente a toda la aplicación.
 
-12 - Crear el widget QLineEdit y usar varias de sus funciones y señales.
+12 - Crear el widget QLineEdit y usar varias de sus funciones públicas y señales.
