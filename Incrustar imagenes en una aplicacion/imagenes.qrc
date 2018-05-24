@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource prefix="/imagenes">
+    <file alias="Qt.png">Qt.png</file>
+    <file alias="Python.png">Python.png</file>
+</qresource>
+</RCC>
