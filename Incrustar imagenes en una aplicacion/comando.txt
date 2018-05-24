@@ -1,0 +1,1 @@
+Este comando se debe escribir en el CMD o Símbolo del Sistema: pyrcc5 -o imagenes.py imagenes.qrc
