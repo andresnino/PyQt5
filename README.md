@@ -26,3 +26,5 @@ Códigos sobre PyQt5
 12 - Crear el widget QLineEdit y usar varias de sus funciones públicas y señales.
 
 13 - Incrustar imágenes en una aplicación: generar un módulo de Python con las imágenes, a partir de un archivo .qrc usando el programa pyrcc5. Este módulo podrá ser importado por la aplicación para que las imágenes estén disponibles como si se trataran de las originales, y así evitar distribuir las imágenes junto con la aplicación que estés desarrollando.
+
+14 - Login: crear una ventana con varios widgets, que permitan obtener datos como el tipo de cuenta, el usuario y la contraseña.
