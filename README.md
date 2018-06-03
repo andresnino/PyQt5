@@ -30,3 +30,5 @@ Códigos sobre PyQt5
 14 - Login: crear una ventana con varios widgets, que permitan obtener datos como el tipo de cuenta, el usuario y la contraseña.
 
 15 - Tomar foto con la cámara del computador: permite seleccionar la cámara que se va a utilizar, iniciarla, detenerla, visualizar la interfaz (visor), tomar fotos, guardarlas y/o eliminarlas.
+
+16 - Iconos estándar: como usar los iconos estándar de PyQt5 y cuales existen.
