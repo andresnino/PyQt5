@@ -32,3 +32,5 @@ Códigos sobre PyQt5
 15 - Tomar foto con la cámara del computador: permite seleccionar la cámara que se va a utilizar, iniciarla, detenerla, visualizar la interfaz (visor), tomar fotos, guardarlas y/o eliminarlas.
 
 16 - Iconos estándar: como usar los iconos estándar de PyQt5 y cuales existen.
+
+17 - Convertir un QIcon a QPixmap y luego guardarlo en el computador.
