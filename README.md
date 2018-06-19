@@ -34,3 +34,5 @@ Códigos sobre PyQt5
 16 - Iconos estándar: como usar los iconos estándar de PyQt5 y cuales existen.
 
 17 - Convertir un QIcon a QPixmap y luego guardarlo en el computador.
+
+18 - Animar botón: aumentar el tamaño del botón al posicionarse el cursor sobre el.
