@@ -36,3 +36,5 @@ Códigos sobre PyQt5
 17 - Convertir un QIcon a QPixmap y luego guardarlo en el computador.
 
 18 - Animar botón: aumentar el tamaño del botón al posicionarse el cursor sobre el.
+
+19 - Interruptor de palanca: imita las funciones de un Toggle Switch.
