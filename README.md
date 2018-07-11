@@ -38,3 +38,5 @@ Códigos sobre PyQt5
 18 - Animar botón: aumentar el tamaño del botón al posicionarse el cursor sobre el.
 
 19 - Interruptor de palanca: imita las funciones de un Toggle Switch.
+
+20 - Botón circular perfecto.
