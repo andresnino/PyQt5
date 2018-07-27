@@ -40,3 +40,5 @@ Códigos sobre PyQt5
 19 - Interruptor de palanca: imita las funciones de un Toggle Switch.
 
 20 - Botón circular perfecto.
+
+21 - Visualizar, imprimir y exportar datos a PDF.
