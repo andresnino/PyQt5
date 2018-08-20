@@ -42,3 +42,5 @@ Códigos sobre PyQt5
 20 - Botón circular perfecto.
 
 21 - Visualizar, imprimir y exportar datos a PDF.
+
+22 - Tabla (QTableWidget): insertar datos, mostrar u ocultar columnas, eliminar filas, limpiar toda la tabla y copiar datos de una fila o columna.
