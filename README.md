@@ -45,4 +45,4 @@ Códigos sobre PyQt5
 
 22 - Tabla (QTableWidget): insertar datos, mostrar u ocultar columnas, eliminar filas, limpiar toda la tabla y copiar datos de una fila o columna.
 
-23: SIACLE: Sistema para administrar clientes.
+23 - SIACLE: Sistema para administrar clientes.
