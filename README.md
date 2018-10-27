@@ -44,3 +44,5 @@ Códigos sobre PyQt5
 21 - Visualizar, imprimir y exportar datos a PDF.
 
 22 - Tabla (QTableWidget): insertar datos, mostrar u ocultar columnas, eliminar filas, limpiar toda la tabla y copiar datos de una fila o columna.
+
+23: SIACLE: Sistema para administrar clientes.
