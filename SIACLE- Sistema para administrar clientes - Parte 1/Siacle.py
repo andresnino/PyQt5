@@ -41,8 +41,8 @@ class Ayuda(QDialog):
 
     def initUI(self):
         label = QLabel(self)
-        label.setPixmap(QPixmap("Imagenes/siacle.jpg").scaled(450, 450, Qt.KeepAspectRatio,
-                                                              Qt.SmoothTransformation))
+        label.setPixmap(QPixmap("siacle.jpg").scaled(450, 450, Qt.KeepAspectRatio,
+                                                     Qt.SmoothTransformation))
         label.move(0, 0)
 
         botonCerrar = QPushButton("Cerrar", self)
@@ -69,8 +69,8 @@ class Acerca(QDialog):
 
     def initUI(self):
         label = QLabel(self)
-        label.setPixmap(QPixmap("Imagenes/siacle.jpg").scaled(450, 450, Qt.KeepAspectRatio,
-                                                              Qt.SmoothTransformation))
+        label.setPixmap(QPixmap("siacle.jpg").scaled(450, 450, Qt.KeepAspectRatio,
+                                                     Qt.SmoothTransformation))
         label.move(0, 0)
 
         labelAcerca = QLabel("SIACLE: sistema para administrar clientes, diseñado y\n"
@@ -92,7 +92,7 @@ class Siacle(QMainWindow):
     def __init__(self, parent=None):
         super(Siacle, self).__init__(parent)
 
-        self.setWindowIcon(QIcon("Imagenes/Qt.png"))
+        self.setWindowIcon(QIcon("Qt.png"))
         self.setWindowTitle("SIACLE (Sistema para administrar clientes por: ANDRES NIÑO)")
         self.setMinimumSize(820, 302)
 
