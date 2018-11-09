@@ -46,3 +46,7 @@ Códigos sobre PyQt5
 22 - Tabla (QTableWidget): insertar datos, mostrar u ocultar columnas, eliminar filas, limpiar toda la tabla y copiar datos de una fila o columna.
 
 23 - SIACLE: Sistema para administrar clientes.
+
+24 - Crear gráfico circular (Pie Chart).
+
+25 - Crear gráfico de barras (Bar Chart).
