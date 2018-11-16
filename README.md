@@ -50,3 +50,5 @@ Códigos sobre PyQt5
 24 - Crear gráfico circular (Pie Chart).
 
 25 - Crear gráfico de barras (Bar Chart).
+
+26 - Visor de imágenes: seleccionar una imagen (png, jpg, ico, bmp) y visualizarla, e igualmente visualizar las demás imágenes que se encuentren en la carpeta de la imagen seleccionada.
