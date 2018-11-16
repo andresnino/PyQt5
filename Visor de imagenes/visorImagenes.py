@@ -13,7 +13,7 @@ __versión__ = "1.0"
 
 """
 El módulo *visorImagenes* permite seleccionar una imagen (png, jpg, ico, bmp) y
-visualizarla, e igualmente visualizar las demas imagenes que se encuentren en la
+visualizarla, e igualmente visualizar las demás imágenes que se encuentren en la
 carpeta de la imagen seleccionada.
 """
 
